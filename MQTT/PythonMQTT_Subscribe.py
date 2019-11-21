@@ -7,7 +7,7 @@ import paho.mqtt.client as mqtt
 
 # Don't forget to change the variables for the MQTT broker!
 mqtt_username = "rtodd"
-mqtt_password = "R@thmull@n97"
+mqtt_password = "CS122A"
 mqtt_topic = "Your Topic"
 mqtt_broker_ip = "192.168.43.220"
 
