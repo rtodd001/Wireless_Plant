@@ -1,0 +1,5 @@
+aiyprojects-raspbian/
+env/
+paho.mqtt.python/
+mic_hat/
+SpeechText/
