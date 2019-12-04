@@ -3,3 +3,4 @@ env/
 paho.mqtt.python/
 mic_hat/
 SpeechText/
+MQTT/__pycache__/
