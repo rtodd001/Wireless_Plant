@@ -95,7 +95,7 @@ void loop() {
       Serial.println( str);
    }
 
-   delay(1000);
+   delay(5000);
 
   /*
   bouncer.update();
